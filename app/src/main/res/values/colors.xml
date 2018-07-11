@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="tab_inactive">#f3f3f3</color>
+    <color name="tab_active">#FFFFFF</color>
     <color name="colorPrimary">#1ab78d</color>
     <color name="colorPrimaryDark">#1ab78d</color>
     <color name="colorAccent">#1ab78d</color>
